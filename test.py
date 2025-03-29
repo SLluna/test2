@@ -3,3 +3,4 @@ print("hi")
 a = 1
 b= 2 + 3
 c = 123
+d = c - b
